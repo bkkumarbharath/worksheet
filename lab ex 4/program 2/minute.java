@@ -7,7 +7,7 @@ package pack3;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class minute {
     public void mintohour(int m)
