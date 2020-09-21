@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class Ath {
 
