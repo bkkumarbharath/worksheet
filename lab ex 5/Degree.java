@@ -7,7 +7,7 @@ package degree;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class Degree {
 
