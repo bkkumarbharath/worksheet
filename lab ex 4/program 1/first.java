@@ -7,7 +7,7 @@ package pack1;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class first {
     public void mark1()
