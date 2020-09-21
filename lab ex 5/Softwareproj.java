@@ -7,7 +7,7 @@ package softwareproj;
 import java.util.*;
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class Softwareproj {
 
