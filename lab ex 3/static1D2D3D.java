@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class static1D2D3D {
     static int b[]=new int[10];
