@@ -7,7 +7,7 @@ package pack1.subpack;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class third {
     public void mod(int a,int b)
