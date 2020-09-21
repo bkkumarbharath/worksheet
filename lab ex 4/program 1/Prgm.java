@@ -8,7 +8,7 @@ import pack1.*;
 import java.util.Scanner;
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class Prgm {
 
