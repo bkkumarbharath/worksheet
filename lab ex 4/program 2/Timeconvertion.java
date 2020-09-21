@@ -10,7 +10,7 @@ import pack3.*;
 import java.util.*;
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class Timeconvertion {
 
