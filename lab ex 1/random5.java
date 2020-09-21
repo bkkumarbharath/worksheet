@@ -7,7 +7,7 @@ package searchelement;
 
 /**
  *
- * @author barathbalajivs
+ * @author bk
  */
 public class random5 {
 
