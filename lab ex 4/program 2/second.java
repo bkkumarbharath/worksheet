@@ -7,7 +7,7 @@ package pack2;
 
 /**
  *
- * @author bhara
+ * @author bk
  */
 public class second {
     public void sectohour(int s)
